@@ -1,3 +1,3 @@
 ---
-title: Aditya's Portofolio
+title: Aditya's Personal Blog
 ---
